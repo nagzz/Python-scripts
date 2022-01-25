@@ -10,6 +10,7 @@ q:3 r:5 s:6
 
 Output:
 "q":5, "r":2, "s":7
+"q":3, "r":5, "s":6
 """
 
 import sys
