@@ -1,4 +1,6 @@
 # Python-scripts
 Practicing
 
-dictionary.py : convert a line to dictionary
+Dictionary.py : Convert a line to dictionary
+
+Timeseriesplot.py : Generates the plot for time-series data by filling with color between upper and lower quartile lines. This script works even with negative values.
