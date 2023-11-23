@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 27/01/22
-
+python timeseriesplot.py ex.csv mir395a.png blue miR395a
 @author: Nagesh
 """
 import sys
